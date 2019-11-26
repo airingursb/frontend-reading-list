@@ -29,6 +29,12 @@
 - [源码解析React Hook构建过程：没有设计就是最好的设计](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491845&idx=1&sn=8992994eb5674f14a2ea5250c5b517ec&chksm=f9525446ce25dd50f4895894cb39fb509424107d44da7768be75bc653882c530d69fa9320ea2&mpshare=1&scene=1&srcid=%23rd)
 - [从源码剖析useState的执行过程](https://juejin.im/post/5cc809d2f265da036c579620)
 
+### 4.2 Fiber
+
+- [React Fiber初探](https://juejin.im/post/5a2276d5518825619a027f57)
+- [这可能是最通俗的 React Fiber 打开方式](https://juejin.im/post/5dadc6045188255a270a0f85)
+- [React Fiber](https://juejin.im/post/5ab7b3a2f265da2378403e57)
+
 ## 5. Vue
 
 

@@ -17,6 +17,10 @@
 - [从event loop规范探究javaScript异步及浏览器更新渲染时机 ](https://github.com/aooy/blog/issues/5)
 - [Event Loop的规范和实现](https://juejin.im/post/5a6155126fb9a01cb64edb45)
 
+### 3.2 任务调度
+
+- [你应该知道的requestIdleCallback](https://juejin.im/post/5ad71f39f265da239f07e862)
+
 ## 4. React
 
 ### 4.1 Hooks
@@ -40,10 +44,10 @@
 
 ## 6. 安全
 
-- [前端 | XSS 的攻击手段与防御](https://me.ursb.me/archives/cs.html)
-- [前端 | CSRF 的攻击手段与防御](https://me.ursb.me/archives/csrf.html)
-- [前端 | XST 的攻击原理与防御](https://me.ursb.me/archives/xst.html)
-- [前端 | HPP 的攻击举例与防范](https://me.ursb.me/archives/hpp.html)
+- [XSS 的攻击手段与防御](https://me.ursb.me/archives/cs.html)
+- [CSRF 的攻击手段与防御](https://me.ursb.me/archives/csrf.html)
+- [XST 的攻击原理与防御](https://me.ursb.me/archives/xst.html)
+- [HPP 的攻击举例与防范](https://me.ursb.me/archives/hpp.html)
 
 ## 7. 性能优化
 

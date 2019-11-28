@@ -39,6 +39,14 @@
 - [这可能是最通俗的 React Fiber 打开方式](https://juejin.im/post/5dadc6045188255a270a0f85)
 - [React Fiber](https://juejin.im/post/5ab7b3a2f265da2378403e57)
 
+### 4.3 Concurrent
+
+- [Introducing Concurrent Mode](https://reactjs.org/docs/concurrent-mode-intro.html)
+- [Concurrent UI Patterns](https://reactjs.org/docs/concurrent-mode-patterns.html)
+- [Suspense the world](https://juejin.im/post/5db65d87518825648f2ef899)
+- [useTransition 的平行世界](https://juejin.im/post/5dbee8e7e51d4558040f0830)
+
+
 ## 5. Vue
 
 
@@ -54,3 +62,7 @@
 ### 7.1 性能指标
 
 - [User-centric Performance Metrics](https://developers.google.com/web/fundamentals/performance/user-centric-performance-metrics): 本文介绍了 FP、FCP、FMP、TTI 等概念及相关优化。
+
+### 7.2 React 性能优化
+
+- [浅谈React性能优化的方向](https://juejin.im/post/5d045350f265da1b695d5bf2)
